@@ -43,3 +43,8 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+
+plugins:
+  - jekyll-remote-theme 
+
+remote_theme: andrewbanchich/forty-jekyll-theme
