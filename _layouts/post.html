@@ -8,18 +8,22 @@ layout: default
   </h1>
   {% if site.hide_post_date != true %}
     {% include post-date.html %}
-  {% endif %}
+  <!-- {% endif %}
   {% if page.image %}
     <div class="featured-image">
       <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
     </div>
-  {% endif %}
+  {% endif %} -->
   <article>
     {{ content }}
   </article>
-  {% if site.hide_post_share != true %}
+  <!-- add some newlines -->
+  <br>
+  <br>
+  
+  <!-- {% if site.hide_post_share != true %}
     {% include post-share.html %}
-  {% endif %}
+  {% endif %} -->
   {% if site.hide_related_posts != true %}
     {% include related-posts.html %}
   {% endif %}
