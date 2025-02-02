@@ -3,7 +3,9 @@
 _site/
 .jekyll-cache/
 
-
+# sample
+assets/img/sample/
+_posts/sample/
 
 # local development
 run_local.sh
