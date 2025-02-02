@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "L.Kirchner_Interlude II"
+title: "Mozart Concerto in D minor, K. 466"
 author: "Yeonju Lee"
-categories: audio-video
+categories: recordings
 tags: [video, youtube]
 image: yeonjulee_profile_white.jpg
 ---
