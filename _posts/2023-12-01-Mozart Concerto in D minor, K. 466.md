@@ -4,7 +4,7 @@ title: "L.Kirchner_Interlude II"
 author: "Yeonju Lee"
 categories: audio-video
 tags: [video, youtube]
-image: Mozart Concerto in D minor, K. 466 (Cadenza by Émile Naoumoff) - Yeonju Lee.webp
+image: yeonjulee_profile_white.jpg
 ---
 
 
