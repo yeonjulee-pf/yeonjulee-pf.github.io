@@ -1,4 +1,6 @@
-./_site/
+
+# Jekyll
+_site/
 .jekyll-cache/
 
 
