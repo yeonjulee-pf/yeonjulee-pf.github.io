@@ -10,3 +10,11 @@ This theme is completely free and open source software. You may use it however y
 
 # Email
 yeonjulee-pf@gmail.com
+
+# SNS
+## Instagram
+[Instagram](https://instagram.com/lee._.play)
+## Youtube
+[Youtube](https://www.youtube.com/@YeonjuLee_piano)
+## Facebook
+[Facebook](https://yeonjulee.github.io)

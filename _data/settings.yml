@@ -4,12 +4,14 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-2'
+google-ID: 
 
+# 재훈: 페이지 상단바 메뉴를 수정하는 부분
 menu:
 - {name: 'About',  url: 'about'}
-- {name: 'Audio & Video',  url: 'audio-video'}
-- {name: 'Social Media',  url: 'sns'}
+- {name: 'Biography',  url: 'biography'} # jhkim: or maybe timeline
+- {name: 'Recordings',  url: 'recordings'}
+# - {name: 'Social Media',  url: 'sns'}
 - {name: 'Contact',            url: 'contact'}
 
 # - {name: 'Learning Resources', url: 'resources'}
