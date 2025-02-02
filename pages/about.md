@@ -5,7 +5,8 @@ permalink: /about
 ---
 
 
-![profile_blue](../assets/img/yeonjulee_profile_black.jpg)
+<!-- ![profile_blue](../assets/img/yeonjulee_profile_black.jpg) -->
+<img src="../assets/img/yeonjulee_profile_black.jpg" width="420" height="630"/>
 
 Yeonju Lee is an active pianist, educator, and entrepreneur based in South Korea, striving to create musical moments and opportunities where individuals connect with their own emotions and stories.
 
@@ -17,6 +18,8 @@ Beyond her roles as a performer and educator, Lee is an entrepreneurial force. S
 
 Currently pursuing an Artist Diploma under the tutelage of Emile Naoumoff, Lee is exploring new repertoire by contemporary composers, including her professor Emile Naoumoff, and collaborating with other musicians. This fall, she is set to perform her solo recital and chamber recital with her ensemble, the Moomyeong Trio. 
 
+## Education
+***
 
 <table style="border-collapse: collapse; width: 100%; border: 1px solid white;">
   <tr style="border: 1px solid white;">
