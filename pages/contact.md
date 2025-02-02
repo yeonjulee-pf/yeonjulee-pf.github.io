@@ -1,16 +1,16 @@
 ---
 layout: page
-# title: Contact
+title: Contact
 permalink: /contact
 ---
 
 
-# Email
+## Email
 yeonjulee.pf@gmail.com
 
-# SNS
-## Instagram
+## SNS
+### Instagram
 [Instagram](https://instagram.com/lee._.play)
-## Youtube
+### Youtube
 [Youtube](https://www.youtube.com/@YeonjuLee_piano)
 
