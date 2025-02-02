@@ -7,6 +7,34 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Mozart Concerto in D minor, K. 466</title>
+				
+					<dc:creator>Yeonju Lee</dc:creator>
+				
+				
+					<description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nBjfbGQUolE?si=HiJ0r4pqBDfgSqS3&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+				
+				<pubDate>Fri, 01 Dec 2023 00:00:00 +0900</pubDate>
+				<link>http://localhost:4000/Mozart-Concerto-in-D-minor,-K.-466</link>
+				<guid isPermaLink="true">http://localhost:4000/Mozart-Concerto-in-D-minor,-K.-466</guid>
+			</item>
+		
+			<item>
+				<title>L.Kirchner_Interlude II</title>
+				
+					<dc:creator>Yeonju Lee</dc:creator>
+				
+				
+					<description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eqktMcX87hc?si=rp75HVUPnGqEFiTH&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+				
+				<pubDate>Sat, 30 Jan 2021 00:00:00 +0900</pubDate>
+				<link>http://localhost:4000/L.Kirchner_Interlude-II</link>
+				<guid isPermaLink="true">http://localhost:4000/L.Kirchner_Interlude-II</guid>
+			</item>
+		
+			<item>
 				<title>Welcome to Millennial!</title>
 				
 					<dc:creator>Paul Le</dc:creator>
@@ -68,7 +96,7 @@
 					<dc:creator>Paul Le</dc:creator>
 				
 				
-					<description>&lt;p&gt;Hi there! I’m Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out &lt;a href=&quot;https://www.lenpaul.com/&quot;&gt;my personal website&lt;/a&gt; for more information on my other projects (including more Jekyll themes!), as well as some of my writing.&lt;/p&gt;
+					<description>&lt;p&gt;&lt;img src=&quot;assets/img/yeonjulee_profile_blue.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 </description>
 				
 				<pubDate>Mon, 04 Apr 2016 00:00:00 +0900</pubDate>
